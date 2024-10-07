@@ -10,14 +10,14 @@
 <div align="center">
   I'm just a guy who enjoys coding :p
 
-  Most of my experience is with <strong>Java</strong> and <strong>Lua</strong>, but lately, I've been diving into <strong>Python</strong> to expand my skills.
+  Most of my experience is with <strong>Java</strong> and <strong>Lua</strong>, but lately, I've been diving into <strong>Python</strong> to expand my skills
   
   <h3>What I usually enjoy working on:</h3>
-  ▶️ Writing <strong>QOL mods</strong> (Quality of Life) to make things smoother.  
+  ▶️ Writing <strong>QOL mods</strong> (Quality of Life) to make things smoother
 
-  ▶️ Building useful bots to automate stuff, solve problems, or just help out in some way.
+  ▶️ Building useful bots to automate stuff, solve problems, or just help out in some way
 
-  If you're into similar stuff, or just curious, feel free to check out my repositories.  
+  If you're into similar stuff, or just curious, feel free to check out my repositories
   I'm always learning and open to take some feedback!
 </div>
 
