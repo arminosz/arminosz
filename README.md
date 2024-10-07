@@ -3,7 +3,7 @@
 </div>
 <div align="center">
   <a href="https://github.com/arminosz">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arminosz&layout=compact&theme=dark" alt="Arminosz's most used languages"/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arminosz&layout=donut&theme=dark"/>
   </a>
 </div>
 
