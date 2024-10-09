@@ -21,7 +21,10 @@
 </div>
 
 <hr>
-
+<p align="center">
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/_arminosz/count.svg" />
+</p>
 <div align="center" style="display: inline_block">
   <img align="center" alt="Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
   <img align="center" alt="Eclipse" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/eclipse/eclipse-original.svg">
