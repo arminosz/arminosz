@@ -3,8 +3,6 @@
 </div>
 
 <div align="center">
-  I'm just a guy who enjoys coding
-
   Most of my experience is with <strong>Python</strong> and <strong>Lua</strong>, but lately, i've been looking into some java
   
   <h3>What I usually work on:</h3>
